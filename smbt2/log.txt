@@ -1,0 +1,2 @@
+
+C:\usr\root\projects\partTime\12£­zjr\chess-zjr>javac -Xlint:deprecation  -d ./bin/chess ./src/chess/BoardGrid.java ./src/chess/BoardInterface.java  ./src/chess/BoardLocation.java ./src/chess/Chess.java ./src/chess/ChessBoard.java ./src/chess/ChessPlay.java ./src/chess/feedBack.java  ./src/chess/MouseListener.java ./src/chess/Piece.java ./src/chess/Resources.java 
